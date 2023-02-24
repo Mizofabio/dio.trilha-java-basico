@@ -17,8 +17,9 @@ public class TiposVariaveis {
 
 
 
-        System.out.println("Hello, World!");
-
-        System.out.println("teste");
+        System.out.println(salarioMinimo);
+        System.out.println(VALOR_DE_PI);
+        System.out.println(numero);
+        System.out.println(numeroCurto2);
     }
 }
